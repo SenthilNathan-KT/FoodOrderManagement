@@ -1,0 +1,54 @@
+[
+	{
+		"id": "1",
+		"restaurantName": "Biryani Guru",
+		"items": [
+			{
+				"itemId": "1",
+				"itemName": "Chicken Biryani",
+				"price": 7.99,
+				"category": "Main Course",
+				"active": true,
+				"favorites": false
+			},
+			{
+				"itemId": "2",
+				"itemName": "LUNCH CHICKEN SPECIALS",
+				"price": 11.99,
+				"category": "lunch specials",
+				"active": true,
+				"favorites": false
+			}
+		]
+	},
+	{
+		"id": "2",
+		"restaurantName": "Pizza Cheeliza",
+		"items": [
+			{
+				"itemId": "1",
+				"itemName": "Paneer Tikka Pizza",
+				"price": 7.99,
+				"category": "small plates",
+				"active": true,
+				"favorites": false
+			},
+			{
+				"itemId": "2",
+				"itemName": "Double Cheese Burst Fries",
+				"price": 11.99,
+				"category": "appetizers",
+				"active": true,
+				"favorites": false
+			},
+			{
+				"itemId": "3",
+				"itemName": "CRISPY Paneer TACOS",
+				"price": 13.99,
+				"category": "main plates",
+				"active": true,
+				"favorites": false
+			}
+		]
+	}
+]
